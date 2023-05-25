@@ -3,3 +3,5 @@ Here is the link to course: [Google Data Analytics Capstone: Complete a Case Stu
 Data Source: [Divvy Data](https://divvybikes.com/system-data)<br><br>
 
 Date of analysis: May 2023
+
+Link to dataset I work with: [Dataset and Case Study](https://drive.google.com/drive/folders/13MHGBREjf5W11GWylNs2XUU8n6ik6UtV?usp=sharing)
