@@ -28,3 +28,6 @@ Data Analysis Portfolio Projects using `PostgreSQL`, `Python` (pandas, numpy, ma
 5. [**Movie Industry Correlation Python**](https://github.com/maitran02/PortfolioProjects/tree/main/MovieIndustry_Correlation_Python)
 
     This project is also conducted under the instruction of [**Alex The Analyst**](https://www.youtube.com/watch?v=iPYVYBtUTyE&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=5). The tool used here is [**Python to identify correlation**](https://github.com/maitran02/PortfolioProjects/blob/main/MovieIndustry_Correlation_Python/movies_correlation.ipynb) between variables in Movie Industry dataset. 
+
+
+Additionally, I would like to attach Certificates I obtained from Massive open online courses (MOOCs) and competitions I participated: [**Certificates**](https://drive.google.com/drive/folders/1PwRUziANnE0MrfnH3m8m3X-ND4TEUg7F?usp=drive_link).
